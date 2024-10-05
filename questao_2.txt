@@ -1,0 +1,10 @@
+Em linguagens como C, um TAD se concretiza através de um tipo de dado(em geral uma struct) que define variáveis que armazenam dos dados e de um conjunto de funções que operam sobre estas variáveis.
+
+Um tipo de dados abstrato de dados possui duas partes:
+
+- dados armazenados
+- funções que manipulam os dados.
+
+Os dados podem ser armazenados em variáveis, vetores, ponteiros etc. Já as funções implementam procedimentos por meio de subprogramas denominados operações, métodos ou serviços.  É importante dizer que qualquer processamento realizado só deve atuar sobre os dados encapsulados em um TAD, além disso, os processamentos só poderão acontecer intermédio dos procedimentos definidos no modelo do TAD.
+
+Sim, podemos utiliza-lo como um tipo na criação de uma variável.

@@ -1,0 +1,3 @@
+Pilha é uma estrutura de dados que utiliza o principio LIFO(Last In First Out), onde o ultimo dado que foi "empilhado" sairá da pilha, utilizado em pilha de comando utilizados em um programa, como por exemplo no excel onde ele empilha os comandos do mais recente para o mais velho. Fila também é uma estrutua de dados porém utiliza um principio diferente, FIFO(First In First Out) onde o primeiro colocado na fila é o primeiro a ser retirado da fila, utilizado por exempla na fila de processos do windows.
+
+Na pilha o elemento que é retirado está a menos tempo e enquanto na fila é o elemento mais velho que é retirado. E na adição de novos elementos na pilha é adicionado no topo enquanto na fila vai para a ultima posição da estrutura.

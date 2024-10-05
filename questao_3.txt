@@ -1,0 +1,3 @@
+A alocação estática ocorre quando são declaradas variáveis globais ou estáticas, já a alocação dinâmica, ocorre quando o processo requisita explicitamente um bloco de memória para armazenar dados; o controle das áreas alocadas dinamicamente é manual ou semi-automático.
+
+É utilizado ponteiro na alocação dinâmica pois é modificado o valor diretamento armazenado na memória RAM.
